@@ -1,6 +1,6 @@
 # import telebot
 #
-# bot = telebot.TeleBot("6853034209:AAFsyRbjaeLBBsgqP5hYFGeOC_9IAPqfBYM")
+# bot = telebot.TeleBot("xxxx")
 #
 # @bot.message_handler(commands=['start']) def start(message): """Отправляет приветственное сообщение и предлагает
 # выбрать язык.""" bot.send_message(message.chat.id, "Здравствуйте! Вас приветствует Агенство проектного управления
